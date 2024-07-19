@@ -1,0 +1,14 @@
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.AssemblyInfoInputs.cache
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.AssemblyInfo.cs
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.csproj.CoreCompileInputs.cache
+C:\Users\ISHITA\source\repos\officeproj\bin\Debug\net8.0\officeproj.exe
+C:\Users\ISHITA\source\repos\officeproj\bin\Debug\net8.0\officeproj.deps.json
+C:\Users\ISHITA\source\repos\officeproj\bin\Debug\net8.0\officeproj.runtimeconfig.json
+C:\Users\ISHITA\source\repos\officeproj\bin\Debug\net8.0\officeproj.dll
+C:\Users\ISHITA\source\repos\officeproj\bin\Debug\net8.0\officeproj.pdb
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.dll
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\refint\officeproj.dll
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.pdb
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\officeproj.genruntimeconfig.cache
+C:\Users\ISHITA\source\repos\officeproj\obj\Debug\net8.0\ref\officeproj.dll
